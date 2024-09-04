@@ -9,10 +9,10 @@ known issue: time taken to load each page is very huge since because of slidesho
 
 Gallery
 -------
-(1) gallery will be avaiable under products tab
+(1) gallery will be available under products tab
 (2) add both the thumbnail (images/thumbs/) and the source image (images/album). Name of the file should be same in both.
 (3) Add the file name in php/pages/gallery.php (FIXME)
-(4) Resolutions - thumbnail:75x100, images: less than 800x600 for better look and feel.
+(4) Resolutions - thumbnail:75x100, images: less than 800x600 for better representation.
 
 Ticker
 ------
